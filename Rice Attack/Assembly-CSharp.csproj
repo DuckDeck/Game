@@ -52,8 +52,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
-     <Compile Include="Assets\Scripts\LoginManager.cs" />
-     <Compile Include="Assets\Scripts\SoundManager.cs" />
+     <Compile Include="Assets\Scripts\Framework\SoundManager.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerAnimtaion.cs" />
+     <Compile Include="Assets\Scripts\Scenes0\LoginManager.cs" />
      <None Include="Assets\Demigiant\DOTweenPro\readme.txt" />
      <None Include="Assets\Demigiant\DOTween\DOTween50.xml" />
      <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
